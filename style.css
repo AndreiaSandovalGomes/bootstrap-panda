@@ -1,0 +1,44 @@
+body{
+  background-color: #F78E69;
+
+  /* color: white; */
+}
+
+.uno{
+  width: 100vw;
+  height: 66vh;
+  object-fit: cover;
+}
+
+.container-verde{
+  width: 100vw;
+  background-color: #ABE188;
+  margin-top: 14px;
+  margin-bottom: 14px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+
+.texto {
+  width: 50vw;
+  margin: auto;
+  padding: 50px 20px 50px 20px;
+  background-color: #F78E69;
+}
+.dos{
+  width: 100vw;
+  height: 110vh;
+  object-fit: cover;
+}
+
+.pictures{
+  width: 50vw;
+  margin: auto;
+  padding: 50px 20px 50px 20px;
+}
+
+.img-pequena{
+  border: 10px solid white;
+  
+}
